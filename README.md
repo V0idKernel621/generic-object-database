@@ -15,3 +15,5 @@ Core database schema containing:
 
 Sample data, relationships, validation logic, and PL/SQL
 functionality will be added in later milestones.
+
+Added 7 object types, then fully made the attributes and allowed values for clothes. Then added one object which was a piece of clothing.
