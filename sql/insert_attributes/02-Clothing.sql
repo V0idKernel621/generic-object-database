@@ -8,3 +8,5 @@ INSERT INTO attribute (id,type_id,name,data_type)
 VALUES (4,2,'Type','TEXT');
 INSERT INTO attribute (id,type_id,name,data_type)
 VALUES (5,2,'Material','TEXT');
+INSERT INTO attribute (id,type_id,name,data_type)
+VALUES (6,2,'Brand','TEXT');
